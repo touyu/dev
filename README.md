@@ -1,4 +1,4 @@
-# memo
+# Dev
 Tech blog by touyu.
 
 ## Requirements
