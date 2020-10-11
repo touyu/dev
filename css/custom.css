@@ -1,0 +1,18 @@
+@media (min-width: 940px) {
+    .app-container {
+        max-width: 65rem;
+        margin: 0 auto;
+    }
+}
+
+.app-container {
+    padding: 2.5rem 1.0rem 2.5rem 1.0rem;
+}
+
+body {
+    font-family: "M PLUS 1p";
+}
+
+.post-content p {
+    line-height: 1.8;
+}
