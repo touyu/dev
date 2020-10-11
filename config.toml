@@ -1,0 +1,19 @@
+baseURL = "https://dev.touyu.me"
+languageCode = "ja"
+title = "dev.touyu.me"
+theme = "m10c"
+paginate = 15
+
+[params]
+  author = "touyu"
+  description = "Tech blog by touyu"
+  customCSS = ["/css/custom.css"]
+  images = ["og.png"]
+
+[params.style]
+  # darkestColor = "#463625"
+  # darkColor = "#2a3738"
+  primaryColor = "#3498db"
+  # lightColor = "#96a879"
+  # lightestColor = "#ffffff"
+  
