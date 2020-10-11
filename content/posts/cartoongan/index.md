@@ -6,7 +6,7 @@ tags: ["deep-learning"]
 ---
 
 # Paper
-https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf
+[Link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 
 # Abstruct
 既存手法（Style Transfer, CycleGAN)では、実写画像のアニメ調変換においては、十分な結果を得られていない。
