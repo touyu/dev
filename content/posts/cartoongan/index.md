@@ -1,7 +1,7 @@
 ---
 title: "CartoonGAN: Generative Adversarial Networks for Photo Cartoonization"
 date: 2020-10-11T22:18:19+09:00
-draft: true
+draft: false
 tags: ["deep-learning"]
 ---
 
